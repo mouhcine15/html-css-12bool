@@ -22,4 +22,7 @@
     flex-basis: 0;
     max-width: 100%;
 } 
-      
+
+.green {
+    background-color: rgb(40, 197, 40);
+}
