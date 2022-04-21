@@ -6,7 +6,9 @@
 [class*="col-"] {
     background-color: blue;
     margin: 1px;
-    height: 50px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
 }
 
 .row {
